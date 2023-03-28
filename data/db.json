@@ -1,0 +1,34 @@
+{
+  "profile": {
+    "display_name": "Shad Jahangir",
+    "username": "shad",
+    "bio": "Good for health, bad for education. Focusing my personal investments in the Pakistani startup scene. Day-to-day designing Odin.",
+    "syndicates": [
+      {
+        "id": "synd-1",
+        "name": "Concept Ventures",
+        "desc": "We're the largest dedicated UK pre-seed fund, helping founders reshape how we work, play and learn. As first-cheque investors, we write up to £750k initially- supporting to Series-A and beyond."
+      }
+    ],
+    "investments": [
+      {
+        "id": "inv-1",
+        "name": "Legacy Labs",
+        "date": "2022",
+        "status": "pre_seed"
+      },
+      {
+        "id": "inv-2",
+        "name": "Poolsuite",
+        "date": "2021",
+        "status": "seed"
+      },
+      {
+        "id": "inv-3",
+        "name": "Boston Dynamics",
+        "date": "2020",
+        "status": "Series A"
+      }
+    ]
+  }
+}

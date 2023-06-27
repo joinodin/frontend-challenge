@@ -68,10 +68,14 @@ Before you start, you will need:
 
 - [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Node.js](https://nodejs.org/download/)
-- [PNPm](https://pnpm.io/)
 - [`json-server`](https://github.com/typicode/json-server)
 
-Clone this repository, then install all the dependencies:
+Clone this repository, once cloned, install the package manager by running:
+```bash
+$ corepack enable
+```
+
+then install all the dependencies:
 
 ```bash
 $ pnpm i

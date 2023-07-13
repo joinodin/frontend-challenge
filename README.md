@@ -11,6 +11,10 @@ This is a small challenge so that we can have an idea on how comfortable and flu
 
 There are two parts to choose from, **Part A** & **Part B**, one is more UI oriented and the other involves a bit more logic. **You only need to complete one part**, choose the one you're more comfortable with. The recommended time block to complete the task is 3 hours.
 
+### Workflow
+
+**Please do not fork 🍴 this repository or open PRs on it**. Clone it, work on it locally, and once ready publish it as a separate repository, then send the link to us.
+
 ### Part A
 
 The task is to implement the following page:
